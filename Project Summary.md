@@ -1,6 +1,6 @@
 **1. PROJECT DEFINITION :** 
 
-Recent economic and social changes have dramatically affected the retail industry, especially in the way that customers and retail businesses interact with one another. The retail sector previously concentrated on promoting the products without having in-depth understanding of the clients who used the products. Customers are no longer being drawn to buy things by generic mass marketing messaging. Retail businesses must think creatively and proactively to meet the requirements and expectations of their customers in order to succeed in the competitive market of today. Through the use of machine learning techniques, this project will estimate whether the customer will buy something again from the online shop in the next quarter and find the common behavioural patterns of the customers using the sales history. When customers are about to make a purchase, these predictions will help retailers to personalize their discount offers. In turn, this project will assist retailers in implementing sustainable practices in product manufacturing.
+Recent economic and social changes have dramatically affected the retail industry, especially in the way that customers and retail businesses interact with one another. The retail sector previously concentrated on promoting the products without having in-depth understanding of the clients who used the products. Customers are no longer being drawn to buy things by generic mass marketing messaging. Retail businesses must think creatively and proactively to meet the requirements and expectations of their customers in order to succeed in the competitive market of today. Through this project we will be abl to estimate whether the customer will buy something again from the online shop in the next quarter and also to find the common behavioural patterns of the customers using the sales history. When customers are about to make a purchase, these predictions will help retailers to personalize their discount offers. In turn, this project will assist retailers in implementing sustainable practices in product manufacturing.
 
 **2. DATASET DESCRIPTION :**
 
@@ -8,9 +8,9 @@ Recent economic and social changes have dramatically affected the retail industr
 
 1. InvoiceNo: a unique identifier for each transaction with 28816 records : alphanumeric, categorical
 2. StockCode: a unique identifier for each product with 4632 records : alphanumeric, categorical
-3. Description: a description of each product with 4682 records : alphanumeric, categorical
-4. Quantity: the number of each product sold in the transaction  : integer, numerical
-5. InvoiceDate: the date and time of the transaction : timestamp, temporal
+3. Description: Description of each product with 4682 records : alphanumeric, categorical
+4. Quantity: The number of each product sold in the transaction  : integer, numerical
+5. InvoiceDate: The date and time of the transaction : timestamp, temporal
 6. UnitPrice: the price of each product : float, numerical
 7. CustomerID: a unique identifier for each customer : alphanumeric, categorical
 8. Country: the country where the customer resides : alphanumeric, categorical
