@@ -1,6 +1,3 @@
-# SOEN6111-GROUP41
-SOEN6111
-
 **1. PROJECT DEFINITION :** 
 
 Recent economic and social changes have dramatically affected the retail industry, especially in the way that customers and retail businesses interact with one another. The retail sector previously concentrated on promoting the products without having in-depth understanding of the clients who used the products. Consumers are no longer being drawn to buy things by generic mass marketing messaging. Retail stores must be original and creative in order to compete in the market of today. But forecasting this is a challenging issue. Retail businesses must think creatively and proactively to meet the requirements and expectations of their customers in order to succeed in the competitive market of today. Through the use of machine learning techniques, this project will estimate whether the customer will buy something again from the online shop in the next quarter. This will be accomplished by looking at the sales history. When consumers are about to make a purchase, these predictions will help retailers to personalize their discount offers. In turn, this project will assist retailers in implementing sustainable practices in product manufacturing.
