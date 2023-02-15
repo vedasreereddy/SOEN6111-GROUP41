@@ -7,8 +7,9 @@ Recent economic and social changes have dramatically affected the retail industr
 
 **2. DATASET DESCRIPTION :**
 
-"Online Retail II" is a dataset available on the UCI Machine Learning Repository. It is a subset of the larger "Online Retail" dataset, which contains all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The "Online Retail II" dataset contains transactions from 01/12/2009 to 09/12/2011. The features and their type included in the "Online Retail II" dataset are:
+"Online Retail II" is a dataset available on the UCI Machine Learning Repository. It is a subset of the larger "Online Retail" dataset, which contains all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The "Online Retail II" dataset contains transactions from 01/12/2009 to 09/12/2011. 
 
+The features and their type included in the "Online Retail II" dataset are:
 InvoiceNo: a unique identifier for each transaction with 28816 records : alphanumeric, categorical
 StockCode: a unique identifier for each product with 4632 records : alphanumeric, categorical
 Description: a description of each product with 4682 records : alphanumeric, categorical
