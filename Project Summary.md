@@ -23,7 +23,7 @@ Recent economic and social changes have dramatically affected the retail industr
 
 We will be using PySpark for the data preprocessing to have a significant processing speed. For the research questions, the following class of models and algorithms will be applied:
 
-. For RQ1, Regression models such as linear regression & logistic regression will be used to predict future sales revenue based on historical sales data.
+. For RQ1, Regression models such as linear regression & logistic regression will be used to predict future sales revenue based on historical sales data. We will use Root Mean Square Error and Mean Absolute Error, which are popular measures to evaluate the models.
 
 . For RQ2, Classification models such as logistic regression, decision trees, and random forest can be used to predict which customers are likely to make repeat purchases in the next quarter.
 
